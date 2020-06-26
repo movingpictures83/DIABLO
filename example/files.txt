@@ -1,0 +1,3 @@
+plugins/DIABLO/example/mrna.csv	mrna	20	3
+plugins/DIABLO/example/mirna.csv	mirna	10	3
+plugins/DIABLO/example/protein.csv	prot	10	3

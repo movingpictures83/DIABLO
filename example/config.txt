@@ -1,0 +1,2 @@
+Prefix plugins/DIABLO/example
+Plugin DIABLO inputfile parameters.txt outputfile weights.csv

@@ -1,0 +1,3 @@
+files	plugins/DIABLO/example/files.txt
+outcome	plugins/DIABLO/example/subtype.csv
+numcomponents	3
