@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: mixOmics_6.12.1
 
 
 PluMA plugin to take multiple datasets and generate a DIABLO (Singh et al, 2019) plot.
